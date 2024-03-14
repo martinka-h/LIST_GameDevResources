@@ -5,8 +5,12 @@ A collection of free game development resources and assets.
 - https://itch.io/game-assets
     <i>3D and 2D assets, tilesets, pixel art, icons, backgrounds & other.</i>
 - https://void1gaming.itch.io/
-    <i> Shaders, materials & various other. </i>     
-
+    <i> Shaders, materials & various other. </i>
+   
+## Marketing
+- https://games-stats.com/
+  <i>Video game industry statistics, steam tags stat, steam marketing tools.</i>
+  
 ## 3D Game assets
 ### <i>Low poly: </i>
 - https://www.kenney.nl/ <i> Includes complete kits </i>
